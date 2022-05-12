@@ -1,0 +1,14 @@
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiKiemTra\BaiKiemTra\bin\Debug\BaiKiemTra.exe.config
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiKiemTra\BaiKiemTra\bin\Debug\BaiKiemTra.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiKiemTra\BaiKiemTra\bin\Debug\BaiKiemTra.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.AssemblyReference.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.CoreCompileInputs.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.pdb
+C:\Users\DUC\OneDrive - University of Technology and Education\Desktop\Bai-Tap-C-Sharp-master\Bai-Tap-C-Sharp-master\baiKiemTra\BaiKiemTra\BaiKiemTra\bin\Debug\BaiKiemTra.exe.config
+C:\Users\DUC\OneDrive - University of Technology and Education\Desktop\Bai-Tap-C-Sharp-master\Bai-Tap-C-Sharp-master\baiKiemTra\BaiKiemTra\BaiKiemTra\bin\Debug\BaiKiemTra.exe
+C:\Users\DUC\OneDrive - University of Technology and Education\Desktop\Bai-Tap-C-Sharp-master\Bai-Tap-C-Sharp-master\baiKiemTra\BaiKiemTra\BaiKiemTra\bin\Debug\BaiKiemTra.pdb
+C:\Users\DUC\OneDrive - University of Technology and Education\Desktop\Bai-Tap-C-Sharp-master\Bai-Tap-C-Sharp-master\baiKiemTra\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.AssemblyReference.cache
+C:\Users\DUC\OneDrive - University of Technology and Education\Desktop\Bai-Tap-C-Sharp-master\Bai-Tap-C-Sharp-master\baiKiemTra\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.csproj.CoreCompileInputs.cache
+C:\Users\DUC\OneDrive - University of Technology and Education\Desktop\Bai-Tap-C-Sharp-master\Bai-Tap-C-Sharp-master\baiKiemTra\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.exe
+C:\Users\DUC\OneDrive - University of Technology and Education\Desktop\Bai-Tap-C-Sharp-master\Bai-Tap-C-Sharp-master\baiKiemTra\BaiKiemTra\BaiKiemTra\obj\Debug\BaiKiemTra.pdb
